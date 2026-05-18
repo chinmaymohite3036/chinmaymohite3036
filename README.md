@@ -1,4 +1,4 @@
-<!-- HELLO SECTION -->
+<!-- Hello Section -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chinmay+Mohite!" alt="HELLO SECTION">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
@@ -11,6 +11,7 @@
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmaymohite3036&theme=algolia&title=Followers,Stars,Repositories,Commits,PullRequest,Experience&column=6&margin-w=15&margin-h=15" alt="chinmaymohite3036" /></a> </p>
 </div>
 
+<!-- About Me Section-->
 # 💫 About Me:
 - 🌱 I’m currently learning Data Science, Exploratory Data Analysis, React.js, and Open Source Contribution through GSSoC'26.**
 
@@ -19,3 +20,17 @@
 - 🚀 Currently building projects in Data Analytics, Frontend Development, and UI/UX enhancement for open-source platforms.**
 
 - 📊 Exploring real-world datasets, visualization techniques, and project-based learning in Data Science.**
+
+<!-- Languages and tools Section-->
+<h3 align="left" style="display:flex; justify-content:center; gap: 15px; flex-wrap:wrap; text-decoration:none;">Languages and Tools:</h3>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; background-color: white; padding: 20px;">
+
+<!-- Python -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+
+<!-- C++ -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+
+<!-- JavaScript -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
