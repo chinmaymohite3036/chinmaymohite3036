@@ -1,1 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&center=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Chinmay+Mohite)](https://git.io/typing-svg)
+<!-- HELLO SECTION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhishek+Verma!" alt="HELLO SECTION">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
