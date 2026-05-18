@@ -13,13 +13,13 @@
 
 <!-- About Me Section-->
 # 💫 About Me:
-- 🌱 I’m currently learning Data Science, Exploratory Data Analysis, React.js, and Open Source Contribution through GSSoC'26.**
+- 🌱 I’m currently learning **Data Science, Exploratory Data Analysis, React.js, and Open Source Contribution through GSSoC'26.**
 
-- 💬 Ask me about Python, Pandas, NumPy, C++, JavaScript, React, GitHub, and beginner-friendly Data Analytics projects.**
+- 💬 Ask me about **Python, Pandas, NumPy, C++, JavaScript, React, GitHub, and beginner-friendly Data Analytics projects.**
 
-- 🚀 Currently building projects in Data Analytics, Frontend Development, and UI/UX enhancement for open-source platforms.**
+- 🚀 Currently building projects in **Data Analytics, Frontend Development, and UI/UX enhancement for open-source platforms.**
 
-- 📊 Exploring real-world datasets, visualization techniques, and project-based learning in Data Science.**
+- 📊 Exploring **real-world datasets, visualization techniques, and project-based learning in Data Science.**
 
 <!-- Languages and tools Section-->
 <h3 align="left" style="display:flex; justify-content:center; gap: 15px; flex-wrap:wrap; text-decoration:none;">Languages and Tools:</h3>
@@ -74,3 +74,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmaymohite3036&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 <br>
+
+<!-- Snake game Section-->
+
+<div align="center">
+  <img src="https://github.com/Abhishek-Verma0/Abhishek-Verma0/blob/output/github-snake-dark.svg" alt="snake gif" />
+</div>
