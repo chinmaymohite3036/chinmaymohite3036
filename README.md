@@ -78,5 +78,5 @@
 <!-- Snake game Section-->
 
 <div align="center">
-  <img src="https://github.com/Abhishek-Verma0/Abhishek-Verma0/blob/output/github-snake-dark.svg" alt="snake gif" />
+  <img src="https://github.com/chinmaymohite3036/chinmaymohite3036/blob/output/github-snake-dark.svg" alt="snake gif" />
 </div>
