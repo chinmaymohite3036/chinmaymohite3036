@@ -10,3 +10,12 @@
 
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmaymohite3036&theme=algolia&title=Followers,Stars,Repositories,Commits,PullRequest,Experience&column=6&margin-w=15&margin-h=15" alt="chinmaymohite3036" /></a> </p>
 </div>
+
+# 💫 About Me:
+- 🌱 I’m currently learning Data Science, Exploratory Data Analysis, React.js, and Open Source Contribution through GSSoC'26.**
+
+- 💬 Ask me about Python, Pandas, NumPy, C++, JavaScript, React, GitHub, and beginner-friendly Data Analytics projects.**
+
+- 🚀 Currently building projects in Data Analytics, Frontend Development, and UI/UX enhancement for open-source platforms.**
+
+- 📊 Exploring real-world datasets, visualization techniques, and project-based learning in Data Science.**
